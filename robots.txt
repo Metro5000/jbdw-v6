@@ -1,0 +1,7 @@
+# =================================================================
+# robots.txt made by www.webforgenam.com
+# =================================================================
+
+User-agent: *
+Allow: /
+Sitemap: https://janelle-wandelaars/sitemap.xml

@@ -1,0 +1,11 @@
+https://*.pages.dev/*
+  X-Robots-Tag: noindex, nofollow
+
+/src/input.css
+  X-Robots-Tag: noindex, nofollow
+
+https://cdnjs.cloudflare.com/*
+  X-Robots-Tag: nofollow
+
+https://fonts.googleapis.com/*
+  X-Robots-Tag: nofollow
