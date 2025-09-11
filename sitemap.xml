@@ -8,9 +8,10 @@
                             http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
   <url>
-    <loc>https://janelle-wandelaars/</loc>
+    <loc>https://janellebothaendiewandelaars.site/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
 
 </urlset>
