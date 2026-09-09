@@ -5,4 +5,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janellebothaendiewandelaars.site/sitemap.xml
+Sitemap: https://janellebothaendiewandelaars.live/sitemap.xml
